@@ -1,0 +1,6 @@
+{
+  "name": "topcms",
+  "dependencies": {
+    "bootstrap": "~3.1.0"
+  }
+}
